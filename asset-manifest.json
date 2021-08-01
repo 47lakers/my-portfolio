@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.18bc120a.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.f4f85a54.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.f4f85a54.chunk.js.map",
+    "main.js": "/my-portfolio/static/js/main.ab15b88c.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.ab15b88c.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.eefc32a4.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.eefc32a4.js.map",
     "static/css/2.455652b6.chunk.css": "/my-portfolio/static/css/2.455652b6.chunk.css",
@@ -18,7 +18,7 @@
     "static/media/IOS.898ba3a3.jpeg": "/my-portfolio/static/media/IOS.898ba3a3.jpeg",
     "static/media/Resume-converted.ff27ad70.pdf": "/my-portfolio/static/media/Resume-converted.ff27ad70.pdf",
     "static/media/School.7b9e0473.jpeg": "/my-portfolio/static/media/School.7b9e0473.jpeg",
-    "static/media/Transcript.a2ce163c.pdf": "/my-portfolio/static/media/Transcript.a2ce163c.pdf",
+    "static/media/Transcript_Print.3f37f4ef.pdf": "/my-portfolio/static/media/Transcript_Print.3f37f4ef.pdf",
     "static/media/basketball.ed1802f2.jpeg": "/my-portfolio/static/media/basketball.ed1802f2.jpeg",
     "static/media/itCoOp.a52bdc59.jpeg": "/my-portfolio/static/media/itCoOp.a52bdc59.jpeg",
     "static/media/other.bb40a8ef.jpeg": "/my-portfolio/static/media/other.bb40a8ef.jpeg",
@@ -31,6 +31,6 @@
     "static/css/2.455652b6.chunk.css",
     "static/js/2.dfbffb96.chunk.js",
     "static/css/main.18bc120a.chunk.css",
-    "static/js/main.f4f85a54.chunk.js"
+    "static/js/main.ab15b88c.chunk.js"
   ]
 }
